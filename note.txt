@@ -1,0 +1,16 @@
+all_dates: 所有日期
+exist_sh: 扩充前的所有股票
+exist_sz: 扩充前的所有股票
+expand_sz: 扩充的所有股票
+
+sh_all: 上交的扩充数据的所有指标
+sz_all: ~
+shAall: 上交所有A股的日期指标
+szAall: ~
+
+code2name_wo_existsh.pkl: 除了之前存在的所有股票（感兴趣）
+Allcode2name_sh.pkl： 所有股票
+
+Mean_AAll_sz: 前缀和数组可用于计算A股所有股票，一个区间内的平均值
+
+Mean_interets_sz: 前缀和数组可用于计算感兴趣的所有股票，一个区间内的平均值
